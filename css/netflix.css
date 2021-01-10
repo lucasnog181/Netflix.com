@@ -1,0 +1,171 @@
+body,
+html,
+#home {
+  height: 100%;
+  overflow-x: hidden;
+}
+
+body {
+  background: linear-gradient(rgba(0, 0, 0, 0.363), rgba(0, 0, 0, 0.363)),
+    url(../img/Netflix.jpg);
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+.transparencia {
+  background: rgb(255, 255, 255);
+}
+
+.container {
+  width: 100%;
+}
+
+.navbar-light .navbar-nav .nav-link {
+  color: rgb(0, 0, 0);
+  font-size: 17px;
+  font-weight: 600;
+}
+
+.capa {
+  text-align: center;
+}
+
+.divisor {
+  width: 1px;
+  background-color: rgb(53, 53, 53);
+  margin: 12px 15px;
+}
+
+.Text-h1-capa {
+  color: rgb(255, 255, 255);
+  text-align: center;
+  font-size: 70px;
+  font-weight: 600;
+}
+
+.txt-p-capa {
+  font-size: 25px;
+  font-weight: 600;
+}
+
+.btn {
+  text-align: center;
+  text-transform: uppercase;
+  font-weight: 700;
+  margin: 5px;
+  padding: 15px;
+  border-radius: 8px;
+
+  width: 320px;
+}
+
+.butao {
+  width: 320px;
+  height: 60px;
+}
+
+#recursos {
+  background: rgb(255, 255, 255);
+}
+
+.filmes-row {
+  margin-top: 40px;
+}
+
+.filmes-row-2 {
+  margin-top: 30px;
+}
+
+.filmes-row-3 {
+  margin-bottom: 40px;
+}
+
+.h3-txt {
+  font-weight: 700;
+  font-size: 40px;
+  color: #ec2724;
+}
+
+.h4-txt {
+  font-weight: 700;
+  font-size: 28px;
+}
+
+.p-txt {
+  font-size: 20px;
+}
+
+#Application h1 {
+  font-size: 45px;
+  color: white;
+  font-weight: 700;
+}
+
+#Application h3 {
+  color: rgb(255, 255, 255);
+  font-weight: 700;
+  font-size: 30px;
+}
+
+#Application p {
+  color: #fff;
+  font-weight: 600;
+  font-size: 20px;
+}
+
+#scrollspy {
+  background: black;
+  width: 100%;
+  margin-top: 30px;
+}
+
+.table-row {
+  margin-top: 60px;
+  box-sizing: border-box;
+}
+
+.butao-assinatura {
+  background: #ec2724;
+  color: white;
+  text-align: center;
+}
+
+.table {
+  background: black;
+}
+
+.th-1 {
+  font-size: 13px;
+}
+
+.Netflix-IMG {
+  text-align: center;
+  background: black;
+  height: 56vh;
+}
+
+.Netflix-h4 {
+  color: white;
+  font-size: 40px;
+}
+
+.Netflix-h6 {
+  color: #fff;
+  font-size: 20px;
+}
+
+.Netflix-p {
+  color: #fff;
+  font-size: 15px;
+}
+
+footer {
+  border-top: 1px rgb(46, 46, 46) solid;
+  background: black;
+  color: rgb(146, 146, 146);
+  padding: 20px;
+}
+
+footer .link {
+  color: rgb(146, 146, 146);
+}

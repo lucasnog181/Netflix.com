@@ -1,0 +1,69 @@
+
+@media (max-width: 576px){
+
+
+    .Text-h1-capa{
+
+        font-size: 40px;
+    }
+
+    .txt-p-capa{
+
+        font-size: 20px;
+    }
+
+    .h3-txt{
+
+        font-size: 30px;
+
+    }
+
+    .h4-txt{
+
+        font-size: 20px;
+
+    }
+
+    .p-txt{
+
+        font-size: 15px;
+    }
+
+    #Application h1{
+
+        font-size: 40px;
+    }
+
+    #Application h3{
+
+        font-size: 25px;
+    }
+
+    #Application p{
+
+        font-size: 15px;
+    }
+
+    .h2-scrollspy{
+
+        font-size: 25px;
+    }
+
+    .Netflix-h4{
+
+        font-size: 22px;
+        margin-top: 50px;
+    }
+
+    .Netflix-h6{
+
+        font-size: 15px;
+    }
+
+    footer{
+
+        text-align: center;
+    }
+
+  
+ }
